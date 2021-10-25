@@ -37,7 +37,7 @@ Table4 - Questions to decide whether to include the GL in software engineering r
 > 
 ## RESOURCES 
 
-[The 2021 Machine Learning, AI and Data (MAD) Landscape](https://mattturck.com/data2021/)
+[The 2021 Machine Learning, AI and Data (MAD) Landscape](https://mattturck.com/data2021/) <br>
 [The Analytics Engineering Roundup Ep.9 with Benn Stancil](https://roundup.getdbt.com/p/benn-stancil-friday-night-data-fightsi)
 
 ### 2021-MAD-Landscape
