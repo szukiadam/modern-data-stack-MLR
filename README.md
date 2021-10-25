@@ -1,5 +1,11 @@
 # MODERN DATA STACK - A Multivocal Literature Review 
 
+# Table of contents
+1. [Multivocal Literature Review](#multivocal-literature-review)
+2. [Resources](#resources)
+    1. [2021 MAD](#2021-mad-landscape)
+    2. [Analytics Roundup w/ Benn Stancil](#analytics-engineering-roundup-w/-benn-stancil)
+
 ## Multivocal Literature Review
 
 [Guidelines for conducting MLRs](https://arxiv.org/pdf/1707.02553.pdf)
@@ -32,5 +38,22 @@ Table4 - Questions to decide whether to include the GL in software engineering r
 ## RESOURCES 
 
 [The 2021 Machine Learning, AI and Data (MAD) Landscape](https://mattturck.com/data2021/)
+[The Analytics Engineering Roundup Ep.9 with Benn Stancil](https://roundup.getdbt.com/p/benn-stancil-friday-night-data-fightsi)
 
+### 2021-MAD-Landscape
 
+### Analytics Engineering Roundup w/ Benn Stancil
+
+What is your take on the modern data stack? Is there a definition or is it just marketing buzz?
+> It's probably mostly marketing buzz. 
+> ... the modern data stack is data tools that were launched on product hunt
+> I think there is this sense of like the modern data stack are the tools that are a little bit more immediately understandable.
+
+What makes a great analyst?
+> It's not to be a "benngineer".
+> .. you have to be curious enough to look and then you have to be observant enough to see it, and then you'd have to be like analytical enough to connect the dots. 
+
+Looking 10 years out, what do you hope to be true for the data industry?
+> I hope that we basically spend a lot more time on the detective work and a lot less time searching for clues.
+> ... the thing that I think makes data valuable is you have it when you need it ...
+> We spent too much time on things like the collection and figuring out like all of the inputs to that, and too little time on, "All right, we have all this information. What decision do we make ..
