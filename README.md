@@ -4,7 +4,7 @@
 1. [Multivocal Literature Review](#multivocal-literature-review)
 2. [Resources](#resources)
     1. [2021 MAD](#2021-mad-landscape)
-    2. [Analytics Roundup w/ Benn Stancil](#analytics-engineering-roundup-w/-benn-stancil)
+    2. [Analytics Engineering Roundup with Benn Stancil](#analytics-engineering-roundup-with-benn-stancil)
 
 ## Multivocal Literature Review
 
@@ -42,7 +42,7 @@ Table4 - Questions to decide whether to include the GL in software engineering r
 
 ### 2021-MAD-Landscape
 
-### Analytics Engineering Roundup w/ Benn Stancil
+### Analytics Engineering Roundup with Benn Stancil
 
 What is your take on the modern data stack? Is there a definition or is it just marketing buzz?
 > It's probably mostly marketing buzz. 
