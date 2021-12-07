@@ -38,4 +38,19 @@
 1. [5 reasons why you should use an open-source data analytics stack in 2020](https://hub.packtpub.com/5-reasons-why-you-should-use-an-open-source-data-analytics-stack-in-2020/)
 1. [How to set up a modern analytics stack](https://dataform.co/blog/modern-data-stack)
 1. [Diving Into GitHub's Data Stack](https://www.firebolt.io/blog/diving-into-githubs-data-stack)
-1. 
+
+
+### Usage of MDS
+Keywords: "modern data stack startup experience", "modern data stack for companies"
+1. [Is the modern analytics stack unbundling or consolidating?](https://sisudata.com/blog/modern-analytics-stack)
+1. [Questions to ask when building the modern data stack](https://www.shipyardapp.com/blog/questions-to-ask-when-building-a-modern-data-stack/)
+1. [How to modernize your data architecture](https://logitanalytics.com/how-to-modernize-your-data-architecture/)
+1.[3 Engineers' perspective on the modern data stack](https://www.theseattledataguy.com/3-engineers-perspectives-on-the-modern-data-stack/#page-content)
+1. [How to make the most of your data as a startup](https://www.actiondesk.io/blog/how-to-make-the-most-of-your-data-as-a-startup)
+1. [Conference talk - Build up your startup's data infrastructure in 1 hour](https://www.youtube.com/watch?v=xH9Q1GtWYiE&ab_channel=AmazonWebServices)
+1. [How a modern data stack is unlocking agility across the retail industry](https://www.tableau.com/about/blog/2021/5/how-modern-data-stack-unlocking-agility-across-retail-industry)
+1. [Unleash your full potential with a modern data stack](https://www.narrator.ai/blog/unleash-your-datas-full-potential-with-a-modern-data-stack/)
+1. [How the MDS accelerates your SMB](https://www.biztory.com/blog/modern-data-stack-for-smb)
+1. [Update to the MDS](https://blog.getcensus.com/graduating-to-the-modern-data-stack-for-startups/) 
+1. [Building a modern data stack at Doma](doma.com/building-a-modern-data-stack-at-doma/)
+1. []
