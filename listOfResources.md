@@ -10,6 +10,8 @@
 - [The 2021 Machine Learning, AI and Data (MAD) Landscape](https://mattturck.com/data2021/)
 - [Resilience and Vibrancy: The 2020 Data & AI Landscape](https://mattturck.com/data2020/)
 - [In Conversation with Tristan Handy (Fishtown/DBT) and Jeremiah Lowin (Prefect)](https://mattturck.com/dbtprefect/)
+- [Keynote: James Densmore - Hubspot - Open Source Data Stack Conference 2021](https://www.youtube.com/watch?v=AqrTojIYjac&list=PLrSbb3LJ2TFrfyyJzU7MzWi_De34id0yz&ab_channel=Grouparoo)
+- [WHAT I LEARNED FROM THE OPEN SOURCE DATA STACK CONFERENCE 2021](https://jameskle.com/writes/open-source-data-stack-2021)
 
 ### Search keyword: "experience" modern data stack
 1. [The modern data experience](https://benn.substack.com/p/the-modern-data-experience)
@@ -41,7 +43,7 @@
 
 
 ### Usage of MDS
-Keywords: "modern data stack startup experience", "modern data stack for companies"
+Keywords: "modern data stack startup experience", "modern data stack for companies", "modern data stack company "case study" "
 1. [Is the modern analytics stack unbundling or consolidating?](https://sisudata.com/blog/modern-analytics-stack)
 1. [Questions to ask when building the modern data stack](https://www.shipyardapp.com/blog/questions-to-ask-when-building-a-modern-data-stack/)
 1. [How to modernize your data architecture](https://logitanalytics.com/how-to-modernize-your-data-architecture/)
@@ -53,4 +55,12 @@ Keywords: "modern data stack startup experience", "modern data stack for compani
 1. [How the MDS accelerates your SMB](https://www.biztory.com/blog/modern-data-stack-for-smb)
 1. [Update to the MDS](https://blog.getcensus.com/graduating-to-the-modern-data-stack-for-startups/) 
 1. [Building a modern data stack at Doma](doma.com/building-a-modern-data-stack-at-doma/)
-1. []
+1. [A MDS improves Analytics in 7 key ways](https://fivetran.com/blog/a-modern-data-stack-improves-analytics-in-seven-key-ways)
+1. [Ignition group case study](https://fivetran.com/case-studies/case-study-ignition-group)
+1. [DocuSign case study](https://fivetran.com/case-studies/case-study-docusign)
+1. [Strava case study](https://fivetran.com/case-studies/case-study-strava)
+1. [Memrise case study](https://fivetran.com/case-studies/memrise-makes-online-learning-smarter-with-fivetran)
+1. [Canva case study](https://fivetran.com/case-studies/canva-builds-360-degree-customer-view-with-fivetran)
+1. [Fivetran case studies](https://fivetran.com/case-studies)
+1. [Red pill analytics](https://redpillanalytics.com/modern-data-platform-case-study/)
+1. [Good Apple case study](https://rivery.io/stories/good-apple/)
