@@ -3,7 +3,7 @@
 ### Articles on conductig a Grey Literature Review
 
 1. [Not Just Black and White: Using Grey Literature in Your Research](https://blog.evidencepartners.com/not-black-and-white-using-grey-literature-in-your-research)
-
+1. [Guide to Searching Grey Literature](https://www.wlv.ac.uk/lib/media/departments/lis/skills/study-guides/LS124-Searching-Grey-Literature.pdf)
 
 ### Other resources
 
@@ -64,3 +64,14 @@ Keywords: "modern data stack startup experience", "modern data stack for compani
 1. [Fivetran case studies](https://fivetran.com/case-studies)
 1. [Red pill analytics](https://redpillanalytics.com/modern-data-platform-case-study/)
 1. [Good Apple case study](https://rivery.io/stories/good-apple/)
+
+## Issues with the modern data stack 
+1. [5 Founders on the biggest unsolved problems of the Modern Data Stack
+](https://www.rilldata.com/blog/5-founders-biggest-unsolved-problems-of-modern-data-stack)
+
+## Videos on the modern data stack
+Keyword on youtube: modern data stack 
+1. [The modern data stack experience (w/ Benn Stancil)](https://www.youtube.com/watch?v=0uBWluKGPNk&list=WL&index=1&ab_channel=dbt)
+1. [Future Data 2020 - Tristan Handy - The Modern Data Stack: Past, Present, and Future](https://www.youtube.com/watch?v=1Zj8gTLdf5s&list=WL&index=5&t=1s&ab_channel=FutureData)
+1. [The post-modern data stack by Drew Banin](https://www.youtube.com/watch?v=C_R6VHJfQn4&list=WL&index=4&ab_channel=dbt)
+1. [Building an Open Source Data Stack by Jeremy Cohen](https://www.youtube.com/watch?v=S1wPKjWFmqo&list=WL&index=3&ab_channel=dbt)

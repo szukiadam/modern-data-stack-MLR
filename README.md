@@ -57,3 +57,15 @@ Looking 10 years out, what do you hope to be true for the data industry?
 > I hope that we basically spend a lot more time on the detective work and a lot less time searching for clues.
 > ... the thing that I think makes data valuable is you have it when you need it ...
 > We spent too much time on things like the collection and figuring out like all of the inputs to that, and too little time on, "All right, we have all this information. What decision do we make ..
+
+### Ideas / things to include in the review
+1. Analysis of companies using MDS / parts of the MDS
+1. Reasons for their migration
+1. Positive and negative experience of the process
+
+
+### Talk with Rúben
+1. Start early
+1. Reporting should be the same as for SLRs
+1. Look at other sample MLRs and follow the different parts from there
+1.  
