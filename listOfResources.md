@@ -1,12 +1,19 @@
 ## List of resources
 
 ### Articles on conductig a Grey Literature Review
-
 1. [Not Just Black and White: Using Grey Literature in Your Research](https://blog.evidencepartners.com/not-black-and-white-using-grey-literature-in-your-research)
 1. [Guide to Searching Grey Literature](https://www.wlv.ac.uk/lib/media/departments/lis/skills/study-guides/LS124-Searching-Grey-Literature.pdf)
 
-### Other resources
+## First search term in google
+Keyword: modern data stack
+1. [The Modern Data Stack (updated for 2021)](https://www.metabase.com/blog/The-Modern-Data-Stack/)
+1. [How to Build a Modern Data Stack – The Comprehensive Guide](https://weld.app/blog/how-to-build-a-modern-data-stack)
+1. [How to Build a Modern Data Stack](https://www.astronomer.io/blog/build-a-modern-data-stack)
+1. [The Modern Data Stack: Past, Present, and Future](https://blog.getdbt.com/future-of-the-modern-data-stack/)
+1. [What Is the Modern Data Stack and Why Should You Be Excited About It?](https://www.analytics8.com/blog/what-is-the-modern-data-stack-and-why-should-you-be-excited-about-it/)
+1. [Rethinking the Modern Data Stack](https://blog.starburst.io/rethinking-the-modern-data-stack)
 
+### Other resources
 - [The 2021 Machine Learning, AI and Data (MAD) Landscape](https://mattturck.com/data2021/)
 - [Resilience and Vibrancy: The 2020 Data & AI Landscape](https://mattturck.com/data2020/)
 - [In Conversation with Tristan Handy (Fishtown/DBT) and Jeremiah Lowin (Prefect)](https://mattturck.com/dbtprefect/)
@@ -45,9 +52,10 @@
 ### Usage of MDS
 Keywords: "modern data stack startup experience", "modern data stack for companies", "modern data stack company "case study" "
 1. [Is the modern analytics stack unbundling or consolidating?](https://sisudata.com/blog/modern-analytics-stack)
+1. [5 use cases of fivetran by TheSeattleDataGuy](https://www.theseattledataguy.com/5-uses-cases-of-fivetran/#page-content)
 1. [Questions to ask when building the modern data stack](https://www.shipyardapp.com/blog/questions-to-ask-when-building-a-modern-data-stack/)
 1. [How to modernize your data architecture](https://logitanalytics.com/how-to-modernize-your-data-architecture/)
-1.[3 Engineers' perspective on the modern data stack](https://www.theseattledataguy.com/3-engineers-perspectives-on-the-modern-data-stack/#page-content)
+1. [3 Engineers' perspective on the modern data stack](https://www.theseattledataguy.com/3-engineers-perspectives-on-the-modern-data-stack/#page-content)
 1. [How to make the most of your data as a startup](https://www.actiondesk.io/blog/how-to-make-the-most-of-your-data-as-a-startup)
 1. [Conference talk - Build up your startup's data infrastructure in 1 hour](https://www.youtube.com/watch?v=xH9Q1GtWYiE&ab_channel=AmazonWebServices)
 1. [How a modern data stack is unlocking agility across the retail industry](https://www.tableau.com/about/blog/2021/5/how-modern-data-stack-unlocking-agility-across-retail-industry)
@@ -75,3 +83,12 @@ Keyword on youtube: modern data stack
 1. [Future Data 2020 - Tristan Handy - The Modern Data Stack: Past, Present, and Future](https://www.youtube.com/watch?v=1Zj8gTLdf5s&list=WL&index=5&t=1s&ab_channel=FutureData)
 1. [The post-modern data stack by Drew Banin](https://www.youtube.com/watch?v=C_R6VHJfQn4&list=WL&index=4&ab_channel=dbt)
 1. [Building an Open Source Data Stack by Jeremy Cohen](https://www.youtube.com/watch?v=S1wPKjWFmqo&list=WL&index=3&ab_channel=dbt)
+
+## Future 
+1. [The future of the modern data stack - interview with former CEO of Snowflake](https://towardsdatascience.com/the-future-of-the-modern-data-stack-2de175b3c809)
+1. [Same as above but in details within a video interview](https://www.montecarlodata.com/impact-2021-the-modern-data-stack/)
+1. 
+
+## Snowballing
+1. [Modernizing Your Data Architecture With The "Modern Data Stack"](https://seattledataguy.substack.com/p/modernizing-your-data-architecture)
+
