@@ -7,7 +7,7 @@
 ## First search term in google
 Keyword: modern data stack
 1. [The Modern Data Stack (updated for 2021)](https://www.metabase.com/blog/The-Modern-Data-Stack/) :heavy_check_mark:
-1. [How to Build a Modern Data Stack – The Comprehensive Guide](https://weld.app/blog/how-to-build-a-modern-data-stack)
+1. [How to Build a Modern Data Stack – The Comprehensive Guide](https://weld.app/blog/how-to-build-a-modern-data-stack) :heavy_check_mark:
 1. [How to Build a Modern Data Stack](https://www.astronomer.io/blog/build-a-modern-data-stack)
 1. [The Modern Data Stack: Past, Present, and Future](https://blog.getdbt.com/future-of-the-modern-data-stack/) :heavy_check_mark:
 1. [What Is the Modern Data Stack and Why Should You Be Excited About It?](https://www.analytics8.com/blog/what-is-the-modern-data-stack-and-why-should-you-be-excited-about-it/)
@@ -18,7 +18,7 @@ Keyword: modern data stack
 - [Resilience and Vibrancy: The 2020 Data & AI Landscape](https://mattturck.com/data2020/)
 - [In Conversation with Tristan Handy (Fishtown/DBT) and Jeremiah Lowin (Prefect)](https://mattturck.com/dbtprefect/)
 - [Keynote: James Densmore - Hubspot - Open Source Data Stack Conference 2021](https://www.youtube.com/watch?v=AqrTojIYjac&list=PLrSbb3LJ2TFrfyyJzU7MzWi_De34id0yz&ab_channel=Grouparoo) :heavy_check_mark:
-- [WHAT I LEARNED FROM THE OPEN SOURCE DATA STACK CONFERENCE 2021](https://jameskle.com/writes/open-source-data-stack-2021)
+- [WHAT I LEARNED FROM THE OPEN SOURCE DATA STACK CONFERENCE 2021](https://jameskle.com/writes/open-source-data-stack-2021) :heavy_check_mark:
 
 ### Search keyword: "experience" modern data stack
 1. [The modern data experience](https://benn.substack.com/p/the-modern-data-experience)
