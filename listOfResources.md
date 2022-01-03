@@ -17,7 +17,7 @@ Keyword: modern data stack
 - [The 2021 Machine Learning, AI and Data (MAD) Landscape](https://mattturck.com/data2021/)
 - [Resilience and Vibrancy: The 2020 Data & AI Landscape](https://mattturck.com/data2020/)
 - [In Conversation with Tristan Handy (Fishtown/DBT) and Jeremiah Lowin (Prefect)](https://mattturck.com/dbtprefect/)
-- [Keynote: James Densmore - Hubspot - Open Source Data Stack Conference 2021](https://www.youtube.com/watch?v=AqrTojIYjac&list=PLrSbb3LJ2TFrfyyJzU7MzWi_De34id0yz&ab_channel=Grouparoo)
+- [Keynote: James Densmore - Hubspot - Open Source Data Stack Conference 2021](https://www.youtube.com/watch?v=AqrTojIYjac&list=PLrSbb3LJ2TFrfyyJzU7MzWi_De34id0yz&ab_channel=Grouparoo) :heavy_check_mark:
 - [WHAT I LEARNED FROM THE OPEN SOURCE DATA STACK CONFERENCE 2021](https://jameskle.com/writes/open-source-data-stack-2021)
 
 ### Search keyword: "experience" modern data stack
