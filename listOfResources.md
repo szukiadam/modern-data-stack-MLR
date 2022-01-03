@@ -6,7 +6,7 @@
 
 ## First search term in google
 Keyword: modern data stack
-1. [The Modern Data Stack (updated for 2021)](https://www.metabase.com/blog/The-Modern-Data-Stack/)
+1. [The Modern Data Stack (updated for 2021)](https://www.metabase.com/blog/The-Modern-Data-Stack/) :heavy_check_mark:
 1. [How to Build a Modern Data Stack – The Comprehensive Guide](https://weld.app/blog/how-to-build-a-modern-data-stack)
 1. [How to Build a Modern Data Stack](https://www.astronomer.io/blog/build-a-modern-data-stack)
 1. [The Modern Data Stack: Past, Present, and Future](https://blog.getdbt.com/future-of-the-modern-data-stack/) :heavy_check_mark:
