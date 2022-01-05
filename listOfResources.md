@@ -92,4 +92,5 @@ Keyword on youtube: modern data stack
 ## Snowballing
 1. [Modernizing Your Data Architecture With The "Modern Data Stack"](https://seattledataguy.substack.com/p/modernizing-your-data-architecture)
 2. [Tristan Handy on the changing face of the data stack](https://mixpanel.com/blog/tristan-handy-changing-data-stack/) 
+3. [CDO secrets to unlocking the value of the modern data stack](https://www.youtube.com/watch?app=desktop&v=_GrabbFiZzA&ab_channel=ThoughtSpot)
 
