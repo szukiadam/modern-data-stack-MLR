@@ -93,4 +93,6 @@ Keyword on youtube: modern data stack
 1. [Modernizing Your Data Architecture With The "Modern Data Stack"](https://seattledataguy.substack.com/p/modernizing-your-data-architecture)
 2. [Tristan Handy on the changing face of the data stack](https://mixpanel.com/blog/tristan-handy-changing-data-stack/) 
 3. [CDO secrets to unlocking the value of the modern data stack](https://www.youtube.com/watch?app=desktop&v=_GrabbFiZzA&ab_channel=ThoughtSpot)
+4. [Emerging Architectures for Modern Data Infrastructure](https://future.a16z.com/emerging-architectures-modern-data-infrastructure/)
+5. [Evolution of Eureka’s Data Platform - How MDS helped them](https://medium.com/eureka-engineering/evolution-of-eurekas-data-platform-918ee7f787dc)
 
