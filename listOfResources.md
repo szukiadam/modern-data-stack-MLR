@@ -8,10 +8,10 @@
 Keyword: modern data stack
 1. [The Modern Data Stack (updated for 2021)](https://www.metabase.com/blog/The-Modern-Data-Stack/) :heavy_check_mark:
 1. [How to Build a Modern Data Stack – The Comprehensive Guide](https://weld.app/blog/how-to-build-a-modern-data-stack) :heavy_check_mark:
-1. [How to Build a Modern Data Stack](https://www.astronomer.io/blog/build-a-modern-data-stack)
+1. [How to Build a Modern Data Stack](https://www.astronomer.io/blog/build-a-modern-data-stack) :heavy_check_mark:
 1. [The Modern Data Stack: Past, Present, and Future](https://blog.getdbt.com/future-of-the-modern-data-stack/) :heavy_check_mark:
-1. [What Is the Modern Data Stack and Why Should You Be Excited About It?](https://www.analytics8.com/blog/what-is-the-modern-data-stack-and-why-should-you-be-excited-about-it/)
-1. [Rethinking the Modern Data Stack](https://blog.starburst.io/rethinking-the-modern-data-stack)
+1. [What Is the Modern Data Stack and Why Should You Be Excited About It?](https://www.analytics8.com/blog/what-is-the-modern-data-stack-and-why-should-you-be-excited-about-it/) :heavy_check_mark:
+1. [Rethinking the Modern Data Stack](https://blog.starburst.io/rethinking-the-modern-data-stack) :heavy_check_mark:
 
 ### Other resources
 - [The 2021 Machine Learning, AI and Data (MAD) Landscape](https://mattturck.com/data2021/)
