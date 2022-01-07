@@ -26,11 +26,11 @@ Keyword: modern data stack
 1. [Modern data stack, it's time for you closeup](https://towardsdatascience.com/modern-data-stack-its-time-for-your-closeup-28f867cf5a81) :heavy_check_mark:
 1. [What is the modern data stack?](https://fivetran.com/blog/what-is-the-modern-data-stack) :heavy_check_mark:
 1. [Creating a unified experience for the modern data stack at mozart data - episode 242](https://www.dataengineeringpodcast.com/mozart-data-modern-data-stack-episode-242/)
-1. [Demystifying the modern data stack](https://blog.dataiku.com/demystifying-the-modern-data-stack)
-1. [How the MDS is reshaping data engineering](https://preset.io/blog/reshaping-data-engineering/)
-1. [Will the real MDS please stand up](https://www.devopsdigest.com/real-modern-data-stack)
+1. [Demystifying the modern data stack](https://blog.dataiku.com/demystifying-the-modern-data-stack) :heavy_check_mark:
+1. [How the MDS is reshaping data engineering](https://preset.io/blog/reshaping-data-engineering/) :heavy_check_mark:
+1. [Will the real MDS please stand up](https://www.devopsdigest.com/real-modern-data-stack) :heavy_check_mark:
 1. [Builds a modern data stack in 30mins](https://mode.com/build-a-modern-data-stack/)
-1. [Why migrate to the MDS and where to start](https://www.theseattledataguy.com/why-migrate-to-the-modern-data-stack-and-where-to-start/)
+1. [Why migrate to the MDS and where to start](https://www.theseattledataguy.com/why-migrate-to-the-modern-data-stack-and-where-to-start/) :heavy_check_mark:
 1. [Thinking data: the MDS](https://medium.com/vertexventures/thinking-data-the-modern-data-stack-d7d59e81e8c6)
 1. [What is the MDS and why you need to migrate to it](https://logitanalytics.com/what-is-the-modern-data-stack-and-why-you-need-to-migrate-to-the-it/)
 1. [An introduction to Monzo's data stack](https://monzo.com/blog/2021/10/14/an-introduction-to-monzos-data-stack)
