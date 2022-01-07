@@ -96,4 +96,5 @@ Keyword on youtube: modern data stack
 4. [Emerging Architectures for Modern Data Infrastructure](https://future.a16z.com/emerging-architectures-modern-data-infrastructure/)
 5. [Evolution of Eureka’s Data Platform - How MDS helped them](https://medium.com/eureka-engineering/evolution-of-eurekas-data-platform-918ee7f787dc)
 6. [5 Founders define the Modern Data Stack](https://www.rilldata.com/blog/5-founders-define-the-modern-data-stack) :heavy_check_mark:
+7. [Emerging Architectures for Modern Data Infrastructure](https://future.a16z.com/emerging-architectures-modern-data-infrastructure/)
 
