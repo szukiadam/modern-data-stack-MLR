@@ -14,17 +14,17 @@ Keyword: modern data stack
 1. [Rethinking the Modern Data Stack](https://blog.starburst.io/rethinking-the-modern-data-stack) :heavy_check_mark:
 
 ### Other resources
-- [The 2021 Machine Learning, AI and Data (MAD) Landscape](https://mattturck.com/data2021/)
-- [Resilience and Vibrancy: The 2020 Data & AI Landscape](https://mattturck.com/data2020/)
-- [In Conversation with Tristan Handy (Fishtown/DBT) and Jeremiah Lowin (Prefect)](https://mattturck.com/dbtprefect/)
+- [The 2021 Machine Learning, AI and Data (MAD) Landscape](https://mattturck.com/data2021/) :heavy_check_mark:
+- [Resilience and Vibrancy: The 2020 Data & AI Landscape](https://mattturck.com/data2020/) :heavy_check_mark:
+- [In Conversation with Tristan Handy (Fishtown/DBT) and Jeremiah Lowin (Prefect)](https://mattturck.com/dbtprefect/) :heavy_check_mark:
 - [Keynote: James Densmore - Hubspot - Open Source Data Stack Conference 2021](https://www.youtube.com/watch?v=AqrTojIYjac&list=PLrSbb3LJ2TFrfyyJzU7MzWi_De34id0yz&ab_channel=Grouparoo) :heavy_check_mark:
 - [WHAT I LEARNED FROM THE OPEN SOURCE DATA STACK CONFERENCE 2021](https://jameskle.com/writes/open-source-data-stack-2021) :heavy_check_mark:
 
 ### Search keyword: "experience" modern data stack
-1. [The modern data experience](https://benn.substack.com/p/the-modern-data-experience)
-1. [Is the modern data stack leaving you behind?](https://databand.ai/blog/modern-data-stack-data-engineering/)
-1. [Modern data stack, it's time for you closeup](https://towardsdatascience.com/modern-data-stack-its-time-for-your-closeup-28f867cf5a81)
-1. [What is the modern data stack?](https://fivetran.com/blog/what-is-the-modern-data-stack)
+1. [The modern data experience](https://benn.substack.com/p/the-modern-data-experience) :heavy_check_mark:
+1. [Is the modern data stack leaving you behind?](https://databand.ai/blog/modern-data-stack-data-engineering/) :heavy_check_mark:
+1. [Modern data stack, it's time for you closeup](https://towardsdatascience.com/modern-data-stack-its-time-for-your-closeup-28f867cf5a81) :heavy_check_mark:
+1. [What is the modern data stack?](https://fivetran.com/blog/what-is-the-modern-data-stack) :heavy_check_mark:
 1. [Creating a unified experience for the modern data stack at mozart data - episode 242](https://www.dataengineeringpodcast.com/mozart-data-modern-data-stack-episode-242/)
 1. [Demystifying the modern data stack](https://blog.dataiku.com/demystifying-the-modern-data-stack)
 1. [How the MDS is reshaping data engineering](https://preset.io/blog/reshaping-data-engineering/)
@@ -61,7 +61,7 @@ Keywords: "modern data stack startup experience", "modern data stack for compani
 1. [How a modern data stack is unlocking agility across the retail industry](https://www.tableau.com/about/blog/2021/5/how-modern-data-stack-unlocking-agility-across-retail-industry)
 1. [Unleash your full potential with a modern data stack](https://www.narrator.ai/blog/unleash-your-datas-full-potential-with-a-modern-data-stack/)
 1. [How the MDS accelerates your SMB](https://www.biztory.com/blog/modern-data-stack-for-smb)
-1. [Update to the MDS](https://blog.getcensus.com/graduating-to-the-modern-data-stack-for-startups/) 
+1. [Upgrade to the Modern Data Stack](https://blog.getcensus.com/graduating-to-the-modern-data-stack-for-startups/) 
 1. [Building a modern data stack at Doma](doma.com/building-a-modern-data-stack-at-doma/)
 1. [A MDS improves Analytics in 7 key ways](https://fivetran.com/blog/a-modern-data-stack-improves-analytics-in-seven-key-ways)
 1. [Ignition group case study](https://fivetran.com/case-studies/case-study-ignition-group)
@@ -95,4 +95,5 @@ Keyword on youtube: modern data stack
 3. [CDO secrets to unlocking the value of the modern data stack](https://www.youtube.com/watch?app=desktop&v=_GrabbFiZzA&ab_channel=ThoughtSpot)
 4. [Emerging Architectures for Modern Data Infrastructure](https://future.a16z.com/emerging-architectures-modern-data-infrastructure/)
 5. [Evolution of Eureka’s Data Platform - How MDS helped them](https://medium.com/eureka-engineering/evolution-of-eurekas-data-platform-918ee7f787dc)
+6. [5 Founders define the Modern Data Stack](https://www.rilldata.com/blog/5-founders-define-the-modern-data-stack) :heavy_check_mark:
 
