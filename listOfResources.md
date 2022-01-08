@@ -35,7 +35,7 @@ Keyword: modern data stack
 1. [What is the MDS and why you need to migrate to it](https://logitanalytics.com/what-is-the-modern-data-stack-and-why-you-need-to-migrate-to-the-it/) :heavy_check_mark:
 1. [An introduction to Monzo's data stack](https://monzo.com/blog/2021/10/14/an-introduction-to-monzos-data-stack) :heavy_check_mark:
 1. [The 3 things to keep in mind while building the MDS](https://www.datacoral.com/blog/modern-data-stack/) :heavy_check_mark:
-1. [Modern Data Stack Conference 2021 – my notes](https://www.pramodb.com/index.php/2021/10/04/modern-data-stack-conference-2021-my-notes/)
+1. [Modern Data Stack Conference 2021 – my notes](https://www.pramodb.com/index.php/2021/10/04/modern-data-stack-conference-2021-my-notes/) :heavy_check_mark:
 
 ### Search keyword: companies and their data stack
 1. [The startup data stack start pack (2020)](https://dataform.co/blog/the-startup-data-stack-starter-pack)
