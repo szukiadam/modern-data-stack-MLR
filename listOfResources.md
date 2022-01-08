@@ -38,11 +38,11 @@ Keyword: modern data stack
 1. [Modern Data Stack Conference 2021 – my notes](https://www.pramodb.com/index.php/2021/10/04/modern-data-stack-conference-2021-my-notes/) :heavy_check_mark:
 
 ### Search keyword: companies and their data stack
-1. [The startup data stack start pack (2020)](https://dataform.co/blog/the-startup-data-stack-starter-pack)
-1. [How & When to set up a proper Data Stack in an early stage startup — with Enrique Colin](https://medium.com/samaipata-ventures/how-to-set-up-a-proper-data-stack-in-an-early-stage-startup-with-enrique-colin-55dcf3c2634b)
-1. [Building a strong data analytics culture starts by changing the conversation about data](https://technative.io/building-strong-data-analytics-culture/)
-1. [How Postman Fixed a Missing Layer in Our Data Stack](https://blog.postman.com/how-postman-fixed-missing-layer-in-our-data-stack/)
-1. [Dear startups: before you worry about AI, do data right](https://sifted.eu/articles/startup-ai-data-strategy/)
+1. [The startup data stack start pack (2020)](https://dataform.co/blog/the-startup-data-stack-starter-pack) :heavy_check_mark:
+1. [How & When to set up a proper Data Stack in an early stage startup — with Enrique Colin](https://medium.com/samaipata-ventures/how-to-set-up-a-proper-data-stack-in-an-early-stage-startup-with-enrique-colin-55dcf3c2634b) :heavy_check_mark:
+1. [Building a strong data analytics culture starts by changing the conversation about data](https://technative.io/building-strong-data-analytics-culture/) :heavy_check_mark:
+1. [How Postman Fixed a Missing Layer in Our Data Stack](https://blog.postman.com/how-postman-fixed-missing-layer-in-our-data-stack/) :heavy_check_mark:
+1. [Dear startups: before you worry about AI, do data right](https://sifted.eu/articles/startup-ai-data-strategy/) :heavy_check_mark:
 1. [How Can Startups Adopt a Modern Data Stack?](https://www.secoda.co/blog/how-can-startups-adopt-a-modern-data-stack)
 1. [5 reasons why you should use an open-source data analytics stack in 2020](https://hub.packtpub.com/5-reasons-why-you-should-use-an-open-source-data-analytics-stack-in-2020/)
 1. [How to set up a modern analytics stack](https://dataform.co/blog/modern-data-stack)
