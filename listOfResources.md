@@ -97,3 +97,5 @@ Keyword on youtube: modern data stack
 5. [Evolution of Eureka’s Data Platform - How MDS helped them](https://medium.com/eureka-engineering/evolution-of-eurekas-data-platform-918ee7f787dc)
 6. [5 Founders define the Modern Data Stack](https://www.rilldata.com/blog/5-founders-define-the-modern-data-stack) :heavy_check_mark:
 
+### Reddit, Twitter or Stackoverflow
+1. 
