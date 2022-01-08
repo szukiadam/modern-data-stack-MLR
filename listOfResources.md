@@ -51,11 +51,11 @@ Keyword: modern data stack
 
 ### Usage of MDS
 Keywords: "modern data stack startup experience", "modern data stack for companies", "modern data stack company "case study" "
-1. [Is the modern analytics stack unbundling or consolidating?](https://sisudata.com/blog/modern-analytics-stack)
-1. [5 use cases of fivetran by TheSeattleDataGuy](https://www.theseattledataguy.com/5-uses-cases-of-fivetran/#page-content)
-1. [Questions to ask when building the modern data stack](https://www.shipyardapp.com/blog/questions-to-ask-when-building-a-modern-data-stack/)
-1. [How to modernize your data architecture](https://logitanalytics.com/how-to-modernize-your-data-architecture/)
-1. [3 Engineers' perspective on the modern data stack](https://www.theseattledataguy.com/3-engineers-perspectives-on-the-modern-data-stack/#page-content)
+1. [Is the modern analytics stack unbundling or consolidating?](https://sisudata.com/blog/modern-analytics-stack) :heavy_check_mark:
+1. [5 use cases of fivetran by TheSeattleDataGuy](https://www.theseattledataguy.com/5-uses-cases-of-fivetran/#page-content) :heavy_check_mark:
+1. [Questions to ask when building the modern data stack](https://www.shipyardapp.com/blog/questions-to-ask-when-building-a-modern-data-stack/) :heavy_check_mark:
+1. [How to modernize your data architecture](https://logitanalytics.com/how-to-modernize-your-data-architecture/) :heavy_check_mark:
+1. [3 Engineers' perspective on the modern data stack](https://www.theseattledataguy.com/3-engineers-perspectives-on-the-modern-data-stack/#page-content) :heavy_check_mark:
 1. [How to make the most of your data as a startup](https://www.actiondesk.io/blog/how-to-make-the-most-of-your-data-as-a-startup)
 1. [Conference talk - Build up your startup's data infrastructure in 1 hour](https://www.youtube.com/watch?v=xH9Q1GtWYiE&ab_channel=AmazonWebServices)
 1. [How a modern data stack is unlocking agility across the retail industry](https://www.tableau.com/about/blog/2021/5/how-modern-data-stack-unlocking-agility-across-retail-industry)
