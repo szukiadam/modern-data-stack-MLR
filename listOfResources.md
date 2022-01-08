@@ -31,10 +31,10 @@ Keyword: modern data stack
 1. [Will the real MDS please stand up](https://www.devopsdigest.com/real-modern-data-stack) :heavy_check_mark:
 1. [Builds a modern data stack in 30mins](https://mode.com/build-a-modern-data-stack/)
 1. [Why migrate to the MDS and where to start](https://www.theseattledataguy.com/why-migrate-to-the-modern-data-stack-and-where-to-start/) :heavy_check_mark:
-1. [Thinking data: the MDS](https://medium.com/vertexventures/thinking-data-the-modern-data-stack-d7d59e81e8c6)
-1. [What is the MDS and why you need to migrate to it](https://logitanalytics.com/what-is-the-modern-data-stack-and-why-you-need-to-migrate-to-the-it/)
-1. [An introduction to Monzo's data stack](https://monzo.com/blog/2021/10/14/an-introduction-to-monzos-data-stack)
-1. [The 3 things to keep in mind while building the MDS](https://www.datacoral.com/blog/modern-data-stack/)
+1. [Thinking data: the MDS](https://medium.com/vertexventures/thinking-data-the-modern-data-stack-d7d59e81e8c6) :heavy_check_mark:
+1. [What is the MDS and why you need to migrate to it](https://logitanalytics.com/what-is-the-modern-data-stack-and-why-you-need-to-migrate-to-the-it/) :heavy_check_mark:
+1. [An introduction to Monzo's data stack](https://monzo.com/blog/2021/10/14/an-introduction-to-monzos-data-stack) :heavy_check_mark:
+1. [The 3 things to keep in mind while building the MDS](https://www.datacoral.com/blog/modern-data-stack/) :heavy_check_mark:
 1. [Modern Data Stack Conference 2021 – my notes](https://www.pramodb.com/index.php/2021/10/04/modern-data-stack-conference-2021-my-notes/)
 
 ### Search keyword: companies and their data stack
@@ -96,5 +96,4 @@ Keyword on youtube: modern data stack
 4. [Emerging Architectures for Modern Data Infrastructure](https://future.a16z.com/emerging-architectures-modern-data-infrastructure/)
 5. [Evolution of Eureka’s Data Platform - How MDS helped them](https://medium.com/eureka-engineering/evolution-of-eurekas-data-platform-918ee7f787dc)
 6. [5 Founders define the Modern Data Stack](https://www.rilldata.com/blog/5-founders-define-the-modern-data-stack) :heavy_check_mark:
-7. [Emerging Architectures for Modern Data Infrastructure](https://future.a16z.com/emerging-architectures-modern-data-infrastructure/)
 
