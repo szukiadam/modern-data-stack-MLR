@@ -43,10 +43,10 @@ Keyword: modern data stack
 1. [Building a strong data analytics culture starts by changing the conversation about data](https://technative.io/building-strong-data-analytics-culture/) :heavy_check_mark:
 1. [How Postman Fixed a Missing Layer in Our Data Stack](https://blog.postman.com/how-postman-fixed-missing-layer-in-our-data-stack/) :heavy_check_mark:
 1. [Dear startups: before you worry about AI, do data right](https://sifted.eu/articles/startup-ai-data-strategy/) :heavy_check_mark:
-1. [How Can Startups Adopt a Modern Data Stack?](https://www.secoda.co/blog/how-can-startups-adopt-a-modern-data-stack)
-1. [5 reasons why you should use an open-source data analytics stack in 2020](https://hub.packtpub.com/5-reasons-why-you-should-use-an-open-source-data-analytics-stack-in-2020/)
-1. [How to set up a modern analytics stack](https://dataform.co/blog/modern-data-stack)
-1. [Diving Into GitHub's Data Stack](https://www.firebolt.io/blog/diving-into-githubs-data-stack)
+1. [How Can Startups Adopt a Modern Data Stack?](https://www.secoda.co/blog/how-can-startups-adopt-a-modern-data-stack) :heavy_check_mark:
+1. [5 reasons why you should use an open-source data analytics stack in 2020](https://hub.packtpub.com/5-reasons-why-you-should-use-an-open-source-data-analytics-stack-in-2020/) :heavy_check_mark:
+1. [How to set up a modern analytics stack](https://dataform.co/blog/modern-data-stack) :heavy_check_mark:
+1. [Diving Into GitHub's Data Stack](https://www.firebolt.io/blog/diving-into-githubs-data-stack) :heavy_check_mark:
 
 
 ### Usage of MDS
@@ -98,4 +98,5 @@ Keyword on youtube: modern data stack
 6. [5 Founders define the Modern Data Stack](https://www.rilldata.com/blog/5-founders-define-the-modern-data-stack) :heavy_check_mark:
 
 ### Reddit, Twitter or Stackoverflow
-1. 
+
+### Employee retention for IT companies 
