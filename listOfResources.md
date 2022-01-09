@@ -61,9 +61,9 @@ Keywords: "modern data stack startup experience", "modern data stack for compani
 1. [How a modern data stack is unlocking agility across the retail industry](https://www.tableau.com/about/blog/2021/5/how-modern-data-stack-unlocking-agility-across-retail-industry) :heavy_check_mark:
 1. [Unleash your full potential with a modern data stack](https://www.narrator.ai/blog/unleash-your-datas-full-potential-with-a-modern-data-stack/) :heavy_check_mark:
 1. [How the MDS accelerates your SMB](https://www.biztory.com/blog/modern-data-stack-for-smb) :heavy_check_mark:
-1. [Upgrade to the Modern Data Stack](https://blog.getcensus.com/graduating-to-the-modern-data-stack-for-startups/) 
-1. [Building a modern data stack at Doma](doma.com/building-a-modern-data-stack-at-doma/)
-1. [A MDS improves Analytics in 7 key ways](https://fivetran.com/blog/a-modern-data-stack-improves-analytics-in-seven-key-ways)
+1. [Upgrade to the Modern Data Stack](https://blog.getcensus.com/graduating-to-the-modern-data-stack-for-startups/) :heavy_check_mark:
+1. [Building a modern data stack at Doma](https://www.doma.com/building-a-modern-data-stack-at-doma/) :heavy_check_mark:
+1. [A MDS improves Analytics in 7 key ways](https://fivetran.com/blog/a-modern-data-stack-improves-analytics-in-seven-key-ways) :heavy_check_mark:
 1. [Ignition group case study](https://fivetran.com/case-studies/case-study-ignition-group)
 1. [DocuSign case study](https://fivetran.com/case-studies/case-study-docusign)
 1. [Strava case study](https://fivetran.com/case-studies/case-study-strava)
@@ -74,8 +74,7 @@ Keywords: "modern data stack startup experience", "modern data stack for compani
 1. [Good Apple case study](https://rivery.io/stories/good-apple/)
 
 ## Issues with the modern data stack 
-1. [5 Founders on the biggest unsolved problems of the Modern Data Stack
-](https://www.rilldata.com/blog/5-founders-biggest-unsolved-problems-of-modern-data-stack)
+1. [5 Founders on the biggest unsolved problems of the Modern Data Stack](https://www.rilldata.com/blog/5-founders-biggest-unsolved-problems-of-modern-data-stack)
 
 ## Videos on the modern data stack
 Keyword on youtube: modern data stack 
