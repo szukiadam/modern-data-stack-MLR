@@ -64,14 +64,15 @@ Keywords: "modern data stack startup experience", "modern data stack for compani
 1. [Upgrade to the Modern Data Stack](https://blog.getcensus.com/graduating-to-the-modern-data-stack-for-startups/) :heavy_check_mark:
 1. [Building a modern data stack at Doma](https://www.doma.com/building-a-modern-data-stack-at-doma/) :heavy_check_mark:
 1. [A MDS improves Analytics in 7 key ways](https://fivetran.com/blog/a-modern-data-stack-improves-analytics-in-seven-key-ways) :heavy_check_mark:
-1. [Ignition group case study](https://fivetran.com/case-studies/case-study-ignition-group)
-1. [DocuSign case study](https://fivetran.com/case-studies/case-study-docusign)
-1. [Strava case study](https://fivetran.com/case-studies/case-study-strava)
-1. [Memrise case study](https://fivetran.com/case-studies/memrise-makes-online-learning-smarter-with-fivetran)
-1. [Canva case study](https://fivetran.com/case-studies/canva-builds-360-degree-customer-view-with-fivetran)
-1. [Fivetran case studies](https://fivetran.com/case-studies)
-1. [Red pill analytics](https://redpillanalytics.com/modern-data-platform-case-study/)
-1. [Good Apple case study](https://rivery.io/stories/good-apple/)
+1. [Ignition group case study](https://fivetran.com/case-studies/case-study-ignition-group) :heavy_check_mark:
+1. [DocuSign case study](https://fivetran.com/case-studies/case-study-docusign) :heavy_check_mark:
+1. [Strava case study](https://fivetran.com/case-studies/case-study-strava) :heavy_check_mark:
+1. [Memrise case study](https://fivetran.com/case-studies/memrise-makes-online-learning-smarter-with-fivetran) :heavy_check_mark:
+1. [Canva case study](https://fivetran.com/case-studies/canva-builds-360-degree-customer-view-with-fivetran) :heavy_check_mark:
+1. [Fivetran case studies](https://fivetran.com/case-studies) :heavy_check_mark: 
+1. [Red pill analytics](https://redpillanalytics.com/modern-data-platform-case-study/) :heavy_check_mark:
+1. [Good Apple case study](https://rivery.io/stories/good-apple/) :heavy_check_mark:
+2. [Metabase case studies](https://www.metabase.com/case_studies/)
 
 ## Issues with the modern data stack 
 1. [5 Founders on the biggest unsolved problems of the Modern Data Stack](https://www.rilldata.com/blog/5-founders-biggest-unsolved-problems-of-modern-data-stack)
